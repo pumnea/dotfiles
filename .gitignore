@@ -4,6 +4,10 @@
 # But not these ...
 !/.gitignore
 !nvim/
+!nvim/**
 !starship/
+!starship/**
 !tmux/
+!tmux/**
 !wezterm/
+!wezterm/**
