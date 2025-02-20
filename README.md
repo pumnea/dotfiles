@@ -1,4 +1,4 @@
-# Personal Config files of:
+# Config files:
 
 - NeoVim
 - Starship
